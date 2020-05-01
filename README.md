@@ -1,6 +1,6 @@
 ## Hapcounter
 
-Mimimal tool to count genotypes at two loci covered by same read fragments
+Minimal tool to count genotypic frequencies at two loci covered by same read fragments
 
 ### Usage
 
