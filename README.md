@@ -56,10 +56,10 @@ T/C     12(0.04)
 Requires [rust](https://www.rust-lang.org/tools/install)
 
 ```
-$ git clone https://github.com/CompEpigen/hapcounter
-$ cd hapcounter
-$ cargo build --release
+$cargo install --git https://github.com/CompEpigen/hapcounter
 ```
+
+Above command will install `hapcounter` binary under path `(~./cargo/bin/)`. 
 
 ### caveat
 Have not checked with Deletions.
